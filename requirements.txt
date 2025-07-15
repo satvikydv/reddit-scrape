@@ -1,0 +1,4 @@
+praw
+tqdm
+python-dotenv
+google-generativeai
