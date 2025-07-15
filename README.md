@@ -107,7 +107,7 @@ This generates a file like:
 
 ---
 
-## 🤖 Requirements.txt
+## 🤖 Requirements
 
 ```txt
 praw
